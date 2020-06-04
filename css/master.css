@@ -1,0 +1,21 @@
+body{
+  background-color: white;
+}
+.pala{
+  font-size: 30px;
+  color: Black;
+  text-align: center;
+  font-weight: bold;
+  background-color: white;
+  margin: 30px
+}
+.badan{
+  margin: 30px;
+  background-color: white;
+}
+table{
+  border: 2px solid black;
+}
+th, td{
+  border: 1px solid black;
+}
